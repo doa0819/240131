@@ -21,5 +21,7 @@ public class Application02 {
         final  int MIN_AGE = 20;
         final  int minAge = 30;  // camel case 사용이 가능하지만 역시 변수와 구분이 되지 않는다.
 
+        //ㅇㅇㅇ
+
     }
 }
